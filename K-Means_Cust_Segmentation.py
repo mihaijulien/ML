@@ -20,7 +20,7 @@ print(df.head())
 '''
 Now let's normalize the dataset. But why do we need normalization in the first place? Normalization is a statistical method 
 that helps mathematical-based algorithms to interpret features with different magnitudes and distributions equally. 
-We use tandardScaler() to normalize our dataset.
+We use StandardScaler() to normalize our dataset.
 '''
 X = df.values[:,1:]
 X = np.nan_to_num(X)
@@ -29,7 +29,7 @@ Clus_dataSet = StandardScaler().fit_transform(X)
 # Modelling
 clusterNum = 3
 k_means = KMeans(init = "k-means++", n_clusters = clusterNum, n_init = 12)
-k_means.fit(X)
+k_means.fit(Clus_dataSet)
 labels = k_means.labels_
 print(labels)
 
