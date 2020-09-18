@@ -56,6 +56,12 @@ my_dataframe = pd.DataFrame(data=my_data, columns=my_column_names)
 # Print the entire DataFrame
 print(my_dataframe)
 
+# Check for null values in each column of the DataFrame
+print("Null values:\n ", my_dataframe.isnull().sum().sort_values(ascending=False))
+
+# Check for null values in the entire DataFrame
+print("Null values: ", my_dataframe.isnull().sum().sum())
+
 # Create a new column named adjusted.
 my_dataframe["adjusted"] = my_dataframe["activity"] + 2
 
