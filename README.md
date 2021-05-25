@@ -6,7 +6,7 @@ Machine learning study repository
 
 ## Live demo
 
-[<img src="https://kaggle.com/static/images/site-logo.png" height="50" style="margin-bottom:-15px" />](https://kaggle.com)
+[<img src="https://kaggle.com/static/images/site-logo.png" height="50" style="margin-bottom:-15px" />](https://www.kaggle.com/julienmihai)
 
 
 Run the notebooks online without having to clone the repository or install jupyter: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mihaijulien/ML/HEAD)
