@@ -13,6 +13,9 @@ View the notebooks online: [![nbviewer](https://raw.githubusercontent.com/jupyte
 Here are some primary resources I've been learning from. 
 - https://www.coursera.org/learn/machine-learning-with-python : General overview of Machine Learning topics such as supervised and unsupervised learning, model evaluation, using sklearn and matplotlib.
 - https://www.coursera.org/learn/convolutional-neural-networks : Andrew Ng's Convolutional Neural Networks course. Great explanations on kernels, convolution operation, padding, strides, pooling etc.
+- **Kaggle:**
+    1. Python, Numpy, Pandas cheatsheet [notebook](pandas-numpy-python-cheatsheet.ipynb)
+    2. Pyspark beginner [notebook](pyspark-ml-tutorial-for-beginners.ipynb)
 
 **Useful cheatsheets:**
 - [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
