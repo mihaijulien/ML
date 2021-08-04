@@ -7,6 +7,7 @@
 [<img src="https://kaggle.com/static/images/site-logo.png" height="50" style="margin-bottom:-15px" />](https://www.kaggle.com/julienmihai)
 
 Run the notebooks online without having to clone the repository or install jupyter: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mihaijulien/ML/HEAD)
+
 View the notebooks online: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/mihaijulien/ML/tree/master/)
 
 ### Resources
