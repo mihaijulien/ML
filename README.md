@@ -4,7 +4,7 @@
 
 ## Live demo
 
-[<img src="https://kaggle.com/static/images/site-logo.png" height="50" style="margin-bottom:-15px" />](https://www.kaggle.com/julienmihai)
+[<img src="https://kaggle.com/static/images/site-logo.png" height="50" style="margin-bottom:-15px" />](https://www.kaggle.com/julienmihai) [<img width="100" height="80" src="https://user-images.githubusercontent.com/16778468/132103024-b0ec3314-f350-4432-8733-e8d02dff1b72.png">](https://www.datacamp.com/profile/mihaijulien)
 
 Run the notebooks online without having to clone the repository or install jupyter: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mihaijulien/ML/HEAD)
 
